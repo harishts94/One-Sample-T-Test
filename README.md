@@ -1,1 +1,1 @@
-This gives a basic template to carry out a One-Sample T-Test, to understand if the mean of a sample data (subset of the population) is significantly different from the overall population.
+This gives a template to carry out a One-Sample T-Test, to understand if the mean of a sample data (subset of the population) is significantly different from the overall population.
